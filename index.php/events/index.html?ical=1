@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triathlon Vereniging Rijnmond - ECPv4.8.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Triathlon Vereniging Rijnmond
+X-ORIGINAL-URL:https://www.triathlonrijnmond.nl
+X-WR-CALDESC:Events for Triathlon Vereniging Rijnmond
+END:VCALENDAR
